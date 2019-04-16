@@ -9,8 +9,9 @@
   <title>Journal Calderon</title>
 </head>
 
-<body>
+<body >
     <!-- Navigation -->
+    <!-- 
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top "id="mainNavFixed" style="position:inherit!important">
         <div class="container">
             <a class="navbar-brand" >iFinance</a>
@@ -41,4 +42,4 @@
         </ul>
       </div>
     </div>
-  </nav>
+  </nav> -->
