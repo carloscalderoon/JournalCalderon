@@ -34,8 +34,6 @@ if ($ok) {
     $cmd->bindParam(':password', $password, PDO::PARAM_STR, 128);
     $cmd->execute();
 
-    $conn = null;
-
     echo 'Your registration was successful.  Click to <a href="index.php">Log In</a>';
 }
 
